@@ -9,7 +9,7 @@ npm i cross-fetch
 npm i @project-serum/anchor
 npm i bs58
 
-create don env file 
+create dot env file 
     PRIVATE_KEY=YOUR_PRIVATE_KEY_HERE
 
 Example is set to swap SOL or USDC
